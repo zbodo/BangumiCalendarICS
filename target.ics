@@ -55,12 +55,12 @@ DTSTART;VALUE=DATE:20261028
 DTSTAMP;VALUE=DATE:20261014
 UID:412008-4-zbodo
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n原本作为无名奴隶遭受虐待的黑猫族
- 少女芙兰，遇到拥有智慧的剑，拜他为师，并成为他的
- 装备者。加入冒险者公会的芙兰，在完成多个任务的过
- 程中，逐渐提升声望。为了追求强大的终点「进化」，
- 芙兰不断努力，渴望帮她实现愿望的师父，将下一个目
- 的地定为了港口都
+DESCRIPTION:「死灵之王陷入绝望」\n\n\n原本作为无名奴隶
+ 遭受虐待的黑猫族少女芙兰，遇到拥有智慧的剑，拜他
+ 为师，并成为他的装备者。加入冒险者公会的芙兰，在
+ 完成多个任务的过程中，逐渐提升声望。为了追求强大
+ 的终点「进化」，芙兰不断努力，渴望帮她实现愿望的
+ 师父，将下一个目的地定为了港口都
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -1110,12 +1110,12 @@ DTSTART;VALUE=DATE:20261014
 DTSTAMP;VALUE=DATE:20261014
 UID:486456-2-zbodo
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n佐佐木在宠物店买到的，是从异世界
- 转生而来，大名鼎鼎的贤者大人。\n「吾名毕耶尔卡洛，
- 乃异界之徒兼星之贤者。」但还是文鸟。佐佐木替这只
- 可爱的宠物取名为「小哔」并一同生活。\n贤者大人给予
- 他的是来往异世界的机会与魔法的力量。下班回家之后
- ，他们就
+DESCRIPTION:「死亡游戏与恶魔」\n\n\n佐佐木在宠物店买到
+ 的，是从异世界转生而来，大名鼎鼎的贤者大人。\n「吾
+ 名毕耶尔卡洛，乃异界之徒兼星之贤者。」但还是文鸟
+ 。佐佐木替这只可爱的宠物取名为「小哔」并一同生活
+ 。\n贤者大人给予他的是来往异世界的机会与魔法的力量
+ 。下班回家之后，他们就
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -1259,6 +1259,36 @@ SUMMARY:佐佐木与文鸟小哔 第二季 12
 DTSTART;VALUE=DATE:20261223
 DTSTAMP;VALUE=DATE:20261014
 UID:486456-12-zbodo
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n佐佐木在宠物店买到的，是从异世界
+ 转生而来，大名鼎鼎的贤者大人。\n「吾名毕耶尔卡洛，
+ 乃异界之徒兼星之贤者。」但还是文鸟。佐佐木替这只
+ 可爱的宠物取名为「小哔」并一同生活。\n贤者大人给予
+ 他的是来往异世界的机会与魔法的力量。下班回家之后
+ ，他们就
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:佐佐木与文鸟小哔 第二季 0
+DTSTART;VALUE=DATE:20261007
+DTSTAMP;VALUE=DATE:20261014
+UID:486456-0-zbodo
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n佐佐木在宠物店买到的，是从异世界
+ 转生而来，大名鼎鼎的贤者大人。\n「吾名毕耶尔卡洛，
+ 乃异界之徒兼星之贤者。」但还是文鸟。佐佐木替这只
+ 可爱的宠物取名为「小哔」并一同生活。\n贤者大人给予
+ 他的是来往异世界的机会与魔法的力量。下班回家之后
+ ，他们就
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:佐佐木与文鸟小哔 第二季 0
+DTSTART;VALUE=DATE:20261007
+DTSTAMP;VALUE=DATE:20261014
+UID:486456-0-zbodo
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n佐佐木在宠物店买到的，是从异世界
  转生而来，大名鼎鼎的贤者大人。\n「吾名毕耶尔卡洛，
