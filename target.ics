@@ -1142,12 +1142,13 @@ DTSTART;VALUE=DATE:20261031
 DTSTAMP;VALUE=DATE:20261024
 UID:554779-5-zbodo
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n文学少年水之江梅理科成绩极差，面
- 临留级危机，被迫加入学生会挽救学分。怎知藤成学园
- 的学生会毫不正常，聚集了纯情闷骚的会长、毒舌学长
- 、腹黑会计与不幸庶务等各路奇葩。在这些怪咖成员的
- 环绕下，阿梅随即展开了一段充满青春骚动、爆笑且色
- 彩缤纷的欢乐校园
+DESCRIPTION:「学生会集训！！／因伞而聚的雨和梅／梅与
+ 绽绽大作战！！」\n\n\n文学少年水之江梅理科成绩极差
+ ，面临留级危机，被迫加入学生会挽救学分。怎知藤成
+ 学园的学生会毫不正常，聚集了纯情闷骚的会长、毒舌
+ 学长、腹黑会计与不幸庶务等各路奇葩。在这些怪咖成
+ 员的环绕下，阿梅随即展开了一段充满青春骚动、爆笑
+ 且色彩缤纷的欢乐校园
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -1274,6 +1275,21 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:学生会也有洞！ 0
 DTSTART;VALUE=DATE:20261003
+DTSTAMP;VALUE=DATE:20261024
+UID:554779-0-zbodo
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n文学少年水之江梅理科成绩极差，面
+ 临留级危机，被迫加入学生会挽救学分。怎知藤成学园
+ 的学生会毫不正常，聚集了纯情闷骚的会长、毒舌学长
+ 、腹黑会计与不幸庶务等各路奇葩。在这些怪咖成员的
+ 环绕下，阿梅随即展开了一段充满青春骚动、爆笑且色
+ 彩缤纷的欢乐校园
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:学生会也有洞！ 0
+DTSTART;VALUE=DATE:20261025
 DTSTAMP;VALUE=DATE:20261024
 UID:554779-0-zbodo
 CLASS:PUBLIC
