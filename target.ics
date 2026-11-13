@@ -82,11 +82,11 @@ DTSTART;VALUE=DATE:20261113
 DTSTAMP;VALUE=DATE:20261113
 UID:537738-6-zbodo
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n位于东京西部的巨大「学园都市」。\n
- 在这座人口多达230万，其中约八成都是学生的城市，实
- 施着为开发超能力而设计的特殊课程，学生们的能力从
- 「无能力（Level 0）」到「超能力（Level 5）」，被划分为
- 六个等级。\n这是个拥有远远超越世间
+DESCRIPTION:「竞技场」\n\n\n位于东京西部的巨大「学园都
+ 市」。\n在这座人口多达230万，其中约八成都是学生的城
+ 市，实施着为开发超能力而设计的特殊课程，学生们的
+ 能力从「无能力（Level 0）」到「超能力（Level 5）」，被
+ 划分为六个等级。\n这是个拥有远远超越世间
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -96,11 +96,11 @@ DTSTART;VALUE=DATE:20261120
 DTSTAMP;VALUE=DATE:20261113
 UID:537738-7-zbodo
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n位于东京西部的巨大「学园都市」。\n
- 在这座人口多达230万，其中约八成都是学生的城市，实
- 施着为开发超能力而设计的特殊课程，学生们的能力从
- 「无能力（Level 0）」到「超能力（Level 5）」，被划分为
- 六个等级。\n这是个拥有远远超越世间
+DESCRIPTION:「道具 vs 道具」\n\n\n位于东京西部的巨大「学
+ 园都市」。\n在这座人口多达230万，其中约八成都是学生
+ 的城市，实施着为开发超能力而设计的特殊课程，学生
+ 们的能力从「无能力（Level 0）」到「超能力（Level 5）」
+ ，被划分为六个等级。\n这是个拥有远远超越世间
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -418,12 +418,12 @@ DTSTART;VALUE=DATE:20261113
 DTSTAMP;VALUE=DATE:20261113
 UID:612608-3-zbodo
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n《加速世界》与《刀剑神域》作者川
- 原砾带来的全新系列作品。《刀剑神域》聚焦于虚拟现
- 实，《刀剑神域大电影：序列之争》探讨了增强现实，
- 而如今，《恶魔纹章》将深入探索混合现实的世界。 当
- 全球首款全沉浸式虚拟现实大型多人在线角色扮演游戏
- 《真实魔法》与
+DESCRIPTION:「觉醒」\n\n\n《加速世界》与《刀剑神域》作
+ 者川原砾带来的全新系列作品。《刀剑神域》聚焦于虚
+ 拟现实，《刀剑神域大电影：序列之争》探讨了增强现
+ 实，而如今，《恶魔纹章》将深入探索混合现实的世界
+ 。 当全球首款全沉浸式虚拟现实大型多人在线角色扮演
+ 游戏《真实魔法》与
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
