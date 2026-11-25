@@ -523,12 +523,12 @@ DTSTART;VALUE=DATE:20261125
 DTSTAMP;VALUE=DATE:20261125
 UID:646154-8-zbodo
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n因为觉醒了最弱等级技能，而被家族
- 扫地出门的少女·罗娜。\n然而那项技能的真面目，居然
- 是能够浏览这个世界的「攻略网站」的SSS级作弊技能【
- 互联网】！\n为了追求自由和平的生活而踏上旅程的「世
- 界最强的魔女」罗娜，她那无厘头的冒险日常，终于动
- 画化
+DESCRIPTION:「试着进行了传送！」\n\n\n因为觉醒了最弱等
+ 级技能，而被家族扫地出门的少女·罗娜。\n然而那项技
+ 能的真面目，居然是能够浏览这个世界的「攻略网站」
+ 的SSS级作弊技能【互联网】！\n为了追求自由和平的生活
+ 而踏上旅程的「世界最强的魔女」罗娜，她那无厘头的
+ 冒险日常，终于动画化
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -1463,12 +1463,12 @@ DTSTART;VALUE=DATE:20261125
 DTSTAMP;VALUE=DATE:20261125
 UID:486456-8-zbodo
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n佐佐木在宠物店买到的，是从异世界
- 转生而来，大名鼎鼎的贤者大人。\n「吾名毕耶尔卡洛，
- 乃异界之徒兼星之贤者。」但还是文鸟。佐佐木替这只
- 可爱的宠物取名为「小哔」并一同生活。\n贤者大人给予
- 他的是来往异世界的机会与魔法的力量。下班回家之后
- ，他们就
+DESCRIPTION:「海自与怪兽」\n\n\n佐佐木在宠物店买到的，
+ 是从异世界转生而来，大名鼎鼎的贤者大人。\n「吾名毕
+ 耶尔卡洛，乃异界之徒兼星之贤者。」但还是文鸟。佐
+ 佐木替这只可爱的宠物取名为「小哔」并一同生活。\n贤
+ 者大人给予他的是来往异世界的机会与魔法的力量。下
+ 班回家之后，他们就
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -2103,7 +2103,7 @@ X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:学生会也有洞！ 9
-DTSTART;VALUE=DATE:20261128
+DTSTART;VALUE=DATE:20261205
 DTSTAMP;VALUE=DATE:20261125
 UID:554779-9-zbodo
 CLASS:PUBLIC
@@ -2118,7 +2118,7 @@ X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:学生会也有洞！ 10
-DTSTART;VALUE=DATE:20261205
+DTSTART;VALUE=DATE:20261212
 DTSTAMP;VALUE=DATE:20261125
 UID:554779-10-zbodo
 CLASS:PUBLIC
@@ -2133,7 +2133,7 @@ X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:学生会也有洞！ 11
-DTSTART;VALUE=DATE:20261212
+DTSTART;VALUE=DATE:20261219
 DTSTAMP;VALUE=DATE:20261125
 UID:554779-11-zbodo
 CLASS:PUBLIC
@@ -2148,7 +2148,7 @@ X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:学生会也有洞！ 12
-DTSTART;VALUE=DATE:20261219
+DTSTART;VALUE=DATE:20261226
 DTSTAMP;VALUE=DATE:20261125
 UID:554779-12-zbodo
 CLASS:PUBLIC
@@ -2737,12 +2737,12 @@ DTSTART;VALUE=DATE:20261209
 DTSTAMP;VALUE=DATE:20261125
 UID:412008-10-zbodo
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n原本作为无名奴隶遭受虐待的黑猫族
- 少女芙兰，遇到拥有智慧的剑，拜他为师，并成为他的
- 装备者。加入冒险者公会的芙兰，在完成多个任务的过
- 程中，逐渐提升声望。为了追求强大的终点「进化」，
- 芙兰不断努力，渴望帮她实现愿望的师父，将下一个目
- 的地定为了港口都
+DESCRIPTION:「一切皆因王女的话」\n\n\n原本作为无名奴隶
+ 遭受虐待的黑猫族少女芙兰，遇到拥有智慧的剑，拜他
+ 为师，并成为他的装备者。加入冒险者公会的芙兰，在
+ 完成多个任务的过程中，逐渐提升声望。为了追求强大
+ 的终点「进化」，芙兰不断努力，渴望帮她实现愿望的
+ 师父，将下一个目的地定为了港口都
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
